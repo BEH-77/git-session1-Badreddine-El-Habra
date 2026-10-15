@@ -1,7 +1,7 @@
 # Git & GitHub Assignment 1
 
 **Name:** Badreddine El Habra  
-**GitHub Username:** beh-77
+**GitHub Username:** BEH-77
 
 ## Project Description
 
