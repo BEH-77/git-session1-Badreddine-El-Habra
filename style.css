@@ -10,7 +10,7 @@ header, main {
   padding: 24px;
 }
 header {
-  background: white;
+  background: rgb(210, 224, 15);
   border-bottom: 1px solid #ddd;
 }
 section {
